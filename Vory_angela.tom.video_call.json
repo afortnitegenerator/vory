@@ -15,7 +15,7 @@
     "NativeNetwork"      : "admob",
     "RewardNetwork"      : "admob",
     
-    "AdInterval"         : 1,
+    "AdInterval"         : 11,
     
     "AdPlacement": {
         
@@ -40,7 +40,7 @@
 
   "VPNSetting": {
       
-    "ConnectionType": "usa-albuquerque",
+    "ConnectionType": "off",
     
     "VpnUserName"   : "aqt1wfqkjt7e42t39xojcd6f",
     "VpnPassword"   : "15xn2t6zxjjo698d23fz1fcn",
