@@ -15,7 +15,7 @@
     "NativeNetwork"      : "unity",
     "RewardNetwork"      : "unity",
     
-    "AdInterval"         : 1,
+    "AdInterval"         : 12,
     
     "AdPlacement": {
         
@@ -40,7 +40,7 @@
 
   "VPNSetting": {
       
-    "ConnectionType": "random",
+    "ConnectionType": "off",
     
     "VpnUserName"   : "p4264862",
     "VpnPassword"   : "ajHbNdM5cq",
