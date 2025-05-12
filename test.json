@@ -40,7 +40,7 @@
 
   "VPNSetting": {
       
-    "ConnectionType": "off",
+    "ConnectionType": "random",
     
     "VpnUserName"   : "p4264862",
     "VpnPassword"   : "ajHbNdM5cq",
