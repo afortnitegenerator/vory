@@ -1,0 +1,169 @@
+{
+    
+ "AppRedirect": {
+    "status"     : false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.piupiuapps.coloringglitterunicorns"
+  },
+  
+  
+ "AdsController": {
+   
+    "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'unity' ",
+   
+    "BannerNetwork"      : "unity",
+    "InterstitialNetwork": "admob",
+    "NativeNetwork"      : "admob",
+    "RewardNetwork"      : "admob",
+    
+    "AdInterval"         : 1,
+    
+    "AdPlacement": {
+        
+      "AdMobBanner"          : "ca-app-pub-9691576545415217/1479801260",
+      "AdMobInterstitial"    : "ca-app-pub-9691576545415217/7963935679",
+      "AdMobNative"          : "ca-app-pub-3940256099942544/2247696110",
+      "AdMobReward"          : "ca-app-pub-3940256099942544/5224354917",
+     
+      "ApplovinKey"          : "Ey33AenqTE14O6tdtv_gGzpDkuPThCbsc0SJf9H1Zw6fGrg34CBMapNm2IOqagfvnINqLIZuRZtQ98nKnPaFJ4",
+      "ApplovinBanner"       : "8f05adf14e053522",
+      "ApplovinInterstitial" : "1a7d1bd9a01a38b1",
+      "ApplovinNative"       : "98f6a586ed642919",
+      "ApplovinReward"       : "98f6a586ed642919",
+      
+      "UnityGameID"           : "4076527",
+      "UnityBanner"           : "BannerAd",
+      "UnityInterstitialAd"   : "InterstitialAd",
+      "UnityRewardAd"         : "rewardedVideo"
+    }
+  },
+  
+
+  "VPNSetting": {
+      
+    "ConnectionType": "off",
+    
+    "VpnUserName"   : "aqt1wfqkjt7e42t39xojcd6f",
+    "VpnPassword"   : "15xn2t6zxjjo698d23fz1fcn",
+    
+    "BlockedCountry": "ca,uk,usa",
+    
+    "VpnFiles": [
+      {
+        "vpnName": "usa-albuquerque",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_albuquerque_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_atlanta_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_chicago_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_dallas_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_denver_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_houston_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_lincoln_park_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_los_angeles_-_1_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_los_angeles_-_2_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_los_angeles_-_3_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_los_angeles_-_5_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_miami_-_2_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_miami_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_new_jersey_-_1_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_new_jersey_-_3_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_new_york_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_phoenix_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_salt_lake_city_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_san_francisco_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_santa_monica_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_seattle_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_tampa_-_1_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_uk_-_docklands_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_uk_-_east_london_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_uk_-_london_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_uk_-_midlands_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_uk_-_tottenham_udp.ovpn"
+      },
+      {
+        "vpnName": "usa",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_uk_-_wembley_udp.ovpn"
+      }
+    ]
+  }
+}
