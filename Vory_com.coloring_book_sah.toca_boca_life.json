@@ -15,7 +15,7 @@
     "NativeNetwork"      : "applovin",
     "RewardNetwork"      : "applovin",
     
-    "AdInterval"         : 21,
+    "AdInterval"         : 1,
     
     "AdPlacement": {
         
