@@ -10,19 +10,19 @@
    
     "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'unity' ",
    
-    "BannerNetwork"      : "",
-    "InterstitialNetwork": "",
-    "NativeNetwork"      : "",
-    "RewardNetwork"      : "",
+    "BannerNetwork"      : "applovin",
+    "InterstitialNetwork": "applovin",
+    "NativeNetwork"      : "applovin",
+    "RewardNetwork"      : "applovin",
     
     "AdInterval"         : 1,
     
     "AdPlacement": {
         
-      "AdMobBanner"          : "ca-app-pub-3940256099942544/6300978111",
-      "AdMobInterstitial"    : "ca-app-pub-3940256099942544/1033173712",
-      "AdMobNative"          : "ca-app-pub-3940256099942544/2247696110",
-      "AdMobReward"          : "ca-app-pub-3940256099942544/5224354917",
+      "AdMobBanner"          : "cdd73c6d5fa58540",
+      "AdMobInterstitial"    : "50213a922dd044df",
+      "AdMobNative"          : "8a46e16c8600e083",
+      "AdMobReward"          : "0eceac3939b43e24",
      
       "ApplovinKey"          : "Ey33AenqTE14O6tdtv_gGzpDkuPThCbsc0SJf9H1Zw6fGrg34CBMapNm2IOqagfvnINqLIZuRZtQ98nKnPaFJ4",
       "ApplovinBanner"       : "da17eff31ae69f15",
