@@ -10,10 +10,10 @@
    
     "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'unity' ",
    
-    "BannerNetwork"      : "applovin",
-    "InterstitialNetwork": "applovin",
-    "NativeNetwork"      : "applovin",
-    "RewardNetwork"      : "applovin",
+    "BannerNetwork"      : "admob",
+    "InterstitialNetwork": "admob",
+    "NativeNetwork"      : "admob",
+    "RewardNetwork"      : "admob",
     
     "AdInterval"         : 1,
     
@@ -40,7 +40,7 @@
 
   "VPNSetting": {
       
-    "ConnectionType": "random",
+    "ConnectionType": "off",
     
     "VpnUserName"   : "vlqwzmeb8dgk1ir2crtpngt2",
     "VpnPassword"   : "recbcyx8t3i6baf1zkmedjid",
