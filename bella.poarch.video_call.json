@@ -10,10 +10,10 @@
    
     "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'unity' ",
    
-    "BannerNetwork"      : "admob",
-    "InterstitialNetwork": "admob",
-    "NativeNetwork"      : "admob",
-    "RewardNetwork"      : "admob",
+    "BannerNetwork"      : "applovin",
+    "InterstitialNetwork": "applovin",
+    "NativeNetwork"      : "applovin",
+    "RewardNetwork"      : "applovin",
     
     "AdInterval"         : 1,
     
@@ -38,217 +38,181 @@
   },
   
 
-  "VPNSetting": {
-      
-    "ConnectionType": "off",
-    
-    "VpnUserName"   : "vlqwzmeb8dgk1ir2crtpngt2",
-    "VpnPassword"   : "recbcyx8t3i6baf1zkmedjid",
-    
+   "VPNSetting": {
+    "ConnectionType": "random",
+    "VpnUserName": "chhBVGzV4bQ25mpFTBW5U343",
+    "VpnPassword": "VkyY3TJ379edLe7NUNhL9aen",
     "BlockedCountry": "ca,uk,usa",
-    
     "VpnFiles": [
-     {
-      "vpnName": "france_-_strasbourg",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_uk_-_midlands_udp.ovpn"
-    },
-{
-      "vpnName": "uk_-_london",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_uk_-_london_udp.ovpn"
-    },
-{
-      "vpnName": "uk_-_east_london",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_uk_-_east_london_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_lincoln_park",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_lincoln_park_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_santa_monica",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_santa_monica_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_los_angeles",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_los_angeles_-_5_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_albuquerque",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_albuquerque_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_houston",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_houston_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_new_jersey",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_boston",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_boston_udp.ovpn"
-    },
-{
-      "vpnName": "canada_-_toronto",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_canada_-_toronto_-_2_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_atlanta",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_atlanta_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_phoenix",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_phoenix_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_salt_lake_city",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_salt_lake_city_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_tampa",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_tampa_-_1_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_denver",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_denver_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_seattle",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_seattle_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_miami",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_miami_-_2_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_new_jersey",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_new_jersey_-_3_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_new_jersey",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_new_jersey_-_1_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_los_angeles",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_los_angeles_-_2_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_miami",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_miami_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_los_angeles",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_los_angeles_-_3_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_dallas",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_dallas_udp.ovpn"
-    },
-{
-      "vpnName": "canada_-_toronto",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_canada_-_toronto_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_washington",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_washington_dc_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_chicago",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_chicago_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_san_francisco",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_san_francisco_udp.ovpn"
-    },
-{
-      "vpnName": "usa_-_new_york",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_usa_-_new_york_udp.ovpn"
-    },
-
-{
-      "vpnName": "spain_-_madrid",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_spain_-_madrid_udp.ovpn"
-    },
-{
-      "vpnName": "germany_-_frankfurt",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_germany_-_frankfurt_-_1_udp.ovpn"
-    },
-{
-      "vpnName": "spain_-_barcelona",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_spain_-_barcelona_udp.ovpn"
-    },
-{
-      "vpnName": "spain_-_barcelona",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_spain_-_barcelona_-_2_udp.ovpn"
-    },
-{
-      "vpnName": "germany_-_nuremberg",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_germany_-_nuremberg_udp.ovpn"
-    },
-{
-      "vpnName": "germany_-_frankfurt",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_germany_-_frankfurt_-_3_udp.ovpn"
-    },
-{
-      "vpnName": "australia_-_sydney",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_australia_-_sydney_-_2_udp.ovpn"
-    },
-{
-      "vpnName": "cayman_islands",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_cayman_islands_udp.ovpn"
-    },
-{
-      "vpnName": "new_zealand",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_new_zealand_udp.ovpn"
-    },
-{
-      "vpnName": "australia_-_adelaide",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_australia_-_adelaide_udp.ovpn"
-    },
-{
-      "vpnName": "australia_-_brisbane",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_australia_-_brisbane_udp.ovpn"
-    },
-{
-      "vpnName": "australia_-_perth",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_australia_-_perth_udp.ovpn"
-    },
-{
-      "vpnName": "australia_-_woolloomooloo",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_australia_-_woolloomooloo_udp.ovpn"
-    },
-{
-      "vpnName": "australia_-_sydney",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_australia_-_sydney_udp.ovpn"
-    },
-{
-      "vpnName": "",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_australia_-_melbourne_udp.ovpn"
-    },
-{
-      "vpnName": "australia_-_melbourne",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_jersey_udp.ovpn"
-    },
-{
-      "vpnName": "france_-_alsace",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_france_-_alsace_udp.ovpn"
-    },
-{
-      "vpnName": "uk_-_wembley",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_uk_-_wembley_udp.ovpn"
-    },
-{
-      "vpnName": "france_-_paris",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_france_-_paris_-_2_udp.ovpn"
-    },
-{
-      "vpnName": "uk_-_tottenham",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_uk_-_tottenham_udp.ovpn"
-    },
-{
-      "vpnName": "",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/my_expressvpn_france_-_strasbourg_udp.ovpn"
-    }
+      {
+        "vpnName": "us-slc",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-slc.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-sjc",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-sjc.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-sfo",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-sfo.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-sea",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-sea.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-phx",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-phx.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-nyc",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-nyc.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-mia",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-mia.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-ltm",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-ltm.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-lax",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-lax.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-las",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-las.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-kan",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-kan.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-hou",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-hou.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-dtw",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-dtw.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-den",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-den.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-dal",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-dal.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-clt",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-clt.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-chi",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-chi.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-buf",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-buf.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-bos",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-bos.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-bdn",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-bdn.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-atl",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-atl.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "us-ash",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/us-ash.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "uk-man",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/uk-man.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "uk-lon",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/uk-lon.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "uk-gla",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/uk-gla.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "uk-edi",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/uk-edi.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "nz-akl",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/nz-akl.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "fr-par",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/fr-par.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "fr-mrs",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/fr-mrs.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "fr-bod",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/fr-bod.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "es-vlc",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/es-vlc.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "es-mad",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/es-mad.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "es-bcn",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/es-bcn.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "de-fra",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/de-fra.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "de-ber",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/de-ber.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "ca-van",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/ca-van.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "ca-tor",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/ca-tor.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "ca-mon",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/ca-mon.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "au-syd",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/au-syd.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "au-per",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/au-per.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "au-mel",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/au-mel.prod.surfshark.com_udp.ovpn"
+      },
+      {
+        "vpnName": "au-bne",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/surf_udp/refs/heads/main/au-bne.prod.surfshark.com_udp.ovpn"
+      }
     ]
   }
 }
+
