@@ -15,7 +15,7 @@
     "NativeNetwork"      : "admob",
     "RewardNetwork"      : "admob",
     
-    "AdInterval"         : 1,
+    "AdInterval"         : 12,
     
     "AdPlacement": {
         
