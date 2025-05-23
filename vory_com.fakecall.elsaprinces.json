@@ -30,9 +30,9 @@
       "ApplovinNative"       : "593966cbc072860e",
       "ApplovinReward"       : "98f6a586ed642919",
       
-      "UnityGameID"           : "5380840",
-      "UnityBanner"           : "Banner_Android_Bidding",
-      "UnityInterstitialAd"   : "Interstitial_Android_Bidding",
+      "UnityGameID"           : "5539764",
+      "UnityBanner"           : "Banner_Android",
+      "UnityInterstitialAd"   : "Interstitial_Android",
       "UnityRewardAd"         : "Rewarded_Android"
     }
   },
