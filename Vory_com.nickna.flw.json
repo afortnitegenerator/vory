@@ -40,17 +40,17 @@
 
   "VPNSetting": {
       
-    "ConnectionType": "nz-aes",
+    "ConnectionType": "random",
     
-    "VpnUserName"   : "u7268323457",
-    "VpnPassword"   : "lordi_2025",
+    "VpnUserName"   : "OpenVPN-vpnjantit.com",
+    "VpnPassword"   : "OpenVPN",
     
     "BlockedCountry": "ca,uk,usa",
     
     "VpnFiles": [
      {
           "vpnName": "nz-aes",
-          "vpnFile": "https://vpneurope.sshs8.com/97/udp.ovpn"
+          "vpnFile": "https://www.vpnjantit.com/download-openvpn-v2.php?server=gr9&user=OpenVPN-vpnjantit.com&protoport=tcp-2501&nomer=14139753&akun=free"
         }
     ]
   }
