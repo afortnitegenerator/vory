@@ -42,15 +42,15 @@
       
     "ConnectionType": "random",
     
-    "VpnUserName"   : "OpenVPN-vpnjantit.com",
-    "VpnPassword"   : "OpenVPN",
+    "VpnUserName"   : "u7268323457",
+    "VpnPassword"   : "lordi_2025",
     
     "BlockedCountry": "ca,uk,usa",
     
     "VpnFiles": [
      {
           "vpnName": "nz-aes",
-          "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/vory/refs/heads/main/OpenVPN-gr9.vpnjantit-udp-2500.ovpn"
+          "vpnFile": "https://vpneurope.sshs8.com/97/udp.ovpn"
         }
     ]
   }
