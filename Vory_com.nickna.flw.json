@@ -38,20 +38,32 @@
   },
   
 
-  "VPNSetting": {
+   "VPNSetting": {
       
-    "ConnectionType": "nz-aes",
+    "ConnectionType": "random",
     
-    "VpnUserName"   : "ManichTayeh",
-    "VpnPassword"   : "Anawana2016",
+    "VpnUserName"   : "vpnbook",
+    "VpnPassword"   : "cf32e5w",
     
     "BlockedCountry": "ca,uk,usa",
     
     "VpnFiles": [
      {
-          "vpnName": "nz-aes",
-          "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/vory/refs/heads/main/UAE-SVPN.tcpvpn.com.ovpn"
-        }
+      "vpnName": "nz-aes",
+      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-tcp443.ovpn"
+    },
+{
+      "vpnName": "au_australia",
+      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-tcp80.ovpn"
+    },
+{
+      "vpnName": "aus-aes",
+      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-udp25000.ovpn"
+    },
+{
+      "vpnName": "aus_perth",
+      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-udp53.ovpn"
+    }
     ]
   }
 }
