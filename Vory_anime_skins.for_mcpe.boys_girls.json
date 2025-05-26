@@ -10,10 +10,10 @@
    
     "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'unity' ",
    
-    "BannerNetwork"      : "applovin",
-    "InterstitialNetwork": "applovin",
-    "NativeNetwork"      : "applovin",
-    "RewardNetwork"      : "applovin",
+    "BannerNetwork"      : "unity",
+    "InterstitialNetwork": "unity",
+    "NativeNetwork"      : "unity",
+    "RewardNetwork"      : "unity",
     
     "AdInterval"         : 1,
     
@@ -30,11 +30,10 @@
       "ApplovinNative"       : "dd6cd3cf9af52392",
       "ApplovinReward"       : "8b59f2b6b63f31a3",
       
-      "UnityGameID"           : "4076527",
-      "UnityBanner"           : "BannerAd",
-      "UnityInterstitialAd"   : "InterstitialAd",
-      "UnityRewardAd"         : "rewardedVideo"
-    }
+      "UnityGameID"           : "5860833",
+      "UnityBanner"           : "Banner_Android",
+      "UnityInterstitialAd"   : "Interstitial_Android",
+      "UnityRewardAd"         : "Rewarded_Android"
   },
   
 
