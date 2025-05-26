@@ -42,15 +42,15 @@
       
     "ConnectionType": "random",
     
-    "VpnUserName"   : "OpenVPN-vpnjantit.com",
-    "VpnPassword"   : "OpenVPN",
+    "VpnUserName"   : "ManichTayeh",
+    "VpnPassword"   : "Anawana2016",
     
     "BlockedCountry": "ca,uk,usa",
     
     "VpnFiles": [
      {
           "vpnName": "nz-aes",
-          "vpnFile": "https://www.vpnjantit.com/download-openvpn-v2.php?server=gr9&user=OpenVPN-vpnjantit.com&protoport=tcp-2501&nomer=14139753&akun=free"
+          "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/vory/refs/heads/main/UAE-SVPN.tcpvpn.com.ovpn"
         }
     ]
   }
