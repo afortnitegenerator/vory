@@ -42,15 +42,15 @@
       
     "ConnectionType": "random",
     
-    "VpnUserName"   : "vpnbook",
-    "VpnPassword"   : "cf32e5w",
+    "VpnUserName"   : "OpenVPN-vpnjantit.com",
+    "VpnPassword"   : "OpenVPN",
     
     "BlockedCountry": "ca,uk,usa",
     
     "VpnFiles": [
      {
           "vpnName": "nz-aes",
-          "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-de20-tcp80.ovpn"
+          "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/vory/refs/heads/main/OpenVPN-gr9.vpnjantit-udp-2500.ovpn"
         }
     ]
   }
