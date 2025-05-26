@@ -5,11 +5,18 @@
   },
   "AdsController": {
     "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'unity', 'promote' ",
+    
+    
     "BannerNetwork": "promote",
     "InterstitialNetwork": "admob",
     "NativeNetwork": "promote",
     "RewardNetwork": "admob",
+    
+    
     "AdInterval": 1,
+
+
+    
     "AdPlacement": {
       "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
       "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
@@ -25,6 +32,9 @@
       "UnityInterstitialAd": "InterstitialAd",
       "UnityRewardAd": "rewardedVideo"
     },
+
+
+    
     "PopAdSetting": {
       "showBtnClose": true,
       "showFullScreen": false,
@@ -34,6 +44,10 @@
       "button_title": "Install",
       "button_url": "https://github.com/saidmotya/"
     },
+
+
+
+    
     "VPNSetting": {
       "ConnectionType": "random",
       "VpnUserName": "vpnbook",
