@@ -42,27 +42,15 @@
       
     "ConnectionType": "random",
     
-    "VpnUserName"   : "p4264862",
-    "VpnPassword"   : "ajHbNdM5cq",
+    "VpnUserName"   : "vpnbook",
+    "VpnPassword"   : "cf32e5w",
     
     "BlockedCountry": "ca,uk,usa",
     
     "VpnFiles": [
      {
           "vpnName": "nz-aes",
-          "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-tcp443.ovpn"
-        },
-        {
-          "vpnName": "tcp80",
-          "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-tcp80.ovpn"
-        },
-        {
-          "vpnName": "udp25000",
-          "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-udp25000.ovpn"
-        },
-        {
-          "vpnName": "au_australia",
-          "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-udp53.ovpn"
+          "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-de20-tcp80.ovpn"
         }
     ]
   }
