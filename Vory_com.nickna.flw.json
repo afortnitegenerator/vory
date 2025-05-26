@@ -1,70 +1,53 @@
 {
-    
- "AppRedirect": {
-    "status"     : false,
+  "AppRedirect": {
+    "status": false,
     "redirectURL": "https://play.google.com/store/apps/details?id=com.piupiuapps.coloringglitterunicorns"
   },
-  
-  
- "AdsController": {
-   
+  "AdsController": {
     "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'unity' ",
-   
-    "BannerNetwork"      : "admob",
+    "BannerNetwork": "admob",
     "InterstitialNetwork": "admob",
-    "NativeNetwork"      : "admob",
-    "RewardNetwork"      : "admob",
-    
-    "AdInterval"         : 1,
-    
+    "NativeNetwork": "admob",
+    "RewardNetwork": "admob",
+    "AdInterval": 1,
     "AdPlacement": {
-        
-      "AdMobBanner"          : "ca-app-pub-3940256099942544/6300978111",
-      "AdMobInterstitial"    : "ca-app-pub-3940256099942544/1033173712",
-      "AdMobNative"          : "ca-app-pub-9691576545415217/3498905036",
-      "AdMobReward"          : "ca-app-pub-9691576545415217/9403928283",
-     
-      "ApplovinKey"          : "Ey33AenqTE14O6tdtv_gGzpDkuPThCbsc0SJf9H1Zw6fGrg34CBMapNm2IOqagfvnINqLIZuRZtQ98nKnPaFJ4",
-      "ApplovinBanner"       : "37454a54f4a50640",
-      "ApplovinInterstitial" : "75b5c0e471417d90",
-      "ApplovinNative"       : "dd6cd3cf9af52392",
-      "ApplovinReward"       : "8b59f2b6b63f31a3",
-      
-      "UnityGameID"           : "5860833",
-      "UnityBanner"           : "Banner_Android",
-      "UnityInterstitialAd"   : "Interstitial_Android",
-      "UnityRewardAd"         : "Rewarded_Android"
-  },
-  
-
-  "VPNSetting": {
-      
-    "ConnectionType": "random",
-    
-    "VpnUserName"   : "vpnbook",
-    "VpnPassword"   : "cf32e5w",
-    
-    "BlockedCountry": "ca,uk,usa",
-    
-    "VpnFiles": [
-     {
-      "vpnName": "nz-aes",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-tcp443.ovpn"
+      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
+      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobNative": "ca-app-pub-9691576545415217/3498905036",
+      "AdMobReward": "ca-app-pub-9691576545415217/9403928283",
+      "ApplovinKey": "Ey33AenqTE14O6tdtv_gGzpDkuPThCbsc0SJf9H1Zw6fGrg34CBMapNm2IOqagfvnINqLIZuRZtQ98nKnPaFJ4",
+      "ApplovinBanner": "37454a54f4a50640",
+      "ApplovinInterstitial": "75b5c0e471417d90",
+      "ApplovinNative": "dd6cd3cf9af52392",
+      "ApplovinReward": "8b59f2b6b63f31a3",
+      "UnityGameID": "5860833",
+      "UnityBanner": "Banner_Android",
+      "UnityInterstitialAd": "Interstitial_Android",
+      "UnityRewardAd": "Rewarded_Android"
     },
-{
-      "vpnName": "au_australia",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-tcp80.ovpn"
-    },
-
+    "VPNSetting": {
+      "ConnectionType": "random",
+      "VpnUserName": "vpnbook",
+      "VpnPassword": "cf32e5w",
+      "BlockedCountry": "ca,uk,usa",
+      "VpnFiles": [
         {
-      "vpnName": "au_australia",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-udp25000.ovpn"
-    },
-
+          "vpnName": "nz-aes",
+          "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-tcp443.ovpn"
+        },
         {
-      "vpnName": "au_australia",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-udp53.ovpn"
+          "vpnName": "au_australia",
+          "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-tcp80.ovpn"
+        },
+        {
+          "vpnName": "au_australia",
+          "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-udp25000.ovpn"
+        },
+        {
+          "vpnName": "au_australia",
+          "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-udp53.ovpn"
+        }
+      ]
     }
-    ]
   }
 }
