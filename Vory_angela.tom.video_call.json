@@ -39,7 +39,7 @@
   
 
   "VPNSetting": {
-    "ConnectionType": "random",
+    "ConnectionType": "off",
     "VpnUserName": "chhBVGzV4bQ25mpFTBW5U343",
     "VpnPassword": "VkyY3TJ379edLe7NUNhL9aen",
     "BlockedCountry": "ca,uk,usa",
