@@ -40,277 +40,29 @@
 
   "VPNSetting": {
       
-    "ConnectionType": "off",
+    "ConnectionType": "random",
     
-    "VpnUserName"   : "p4264862",
-    "VpnPassword"   : "ajHbNdM5cq",
+    "VpnUserName"   : "vpnbook",
+    "VpnPassword"   : "cf32e5w",
     
     "BlockedCountry": "ca,uk,usa",
     
     "VpnFiles": [
      {
       "vpnName": "nz-aes",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/nz-aes-128-cbc-udp-dns.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-tcp443.ovpn"
     },
 {
       "vpnName": "au_australia",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/au_australia-so-aes-128-cbc-udp-dns.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-tcp80.ovpn"
     },
 {
       "vpnName": "aus-aes",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/aus-aes-128-cbc-udp-dns.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-udp25000.ovpn"
     },
 {
       "vpnName": "aus_perth",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/aus_perth-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "aus_melbourne",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/aus_melbourne-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "au_brisbane",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/au_brisbane-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "au_adelaide",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/au_adelaide-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_wisconsin",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_wisconsin-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "us3-aes",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us3-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_pennsylvania",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_pennsylvania-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_silicon",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_silicon_valley-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_south_west",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_south_west-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_north_dakota",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_north_dakota-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_new_hampshire",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_new_hampshire-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_mississippi",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_mississippi-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_maine",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_maine-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_kansas",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_kansas-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_houston",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_houston-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "us-newjersey",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us-newjersey-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_california",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_california-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_alaska",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_alaska-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_wyoming",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_wyoming-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "us-streaming",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us-streaming-2-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_vermont",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_vermont-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_south_carolina",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_south_carolina-pf-aes-128-cbc-udp-dns (1).ovpn"
-    },
-{
-      "vpnName": "usa_rhode_island",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_rhode_island-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_ohio",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_ohio-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_new_mexico",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_new_mexico-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_missouri",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_missouri-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_massachusetts",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_massachusetts-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_kentucky",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_kentucky-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_idaho",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_idaho-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "us-streaming-aes",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us-streaming-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_chicago-aes",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_chicago-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_arkansas-pf",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_arkansas-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_west_virginia",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_west_virginia-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_virginia-pf",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_virginia-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_south_dakota",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_south_dakota-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "us-saltlakecity",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us-saltlakecity-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_oklahoma",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_oklahoma-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_new_york",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_new_york_city-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_montana",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_montana-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_michigan",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_michigan-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_las_vegas",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_las_vegas-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_indiana",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_indiana-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_florida",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_florida-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_connecticut",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_connecticut-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_atlanta",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_atlanta-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "us-wilmington",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us-wilmington-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_washington",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_washington_dc-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_seattle",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_seattle-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_oregon",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_oregon-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_north_carolina",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_north_carolina-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_nebraska",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_nebraska-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_minnesota",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_minnesota-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_louisiana",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_louisiana-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_iowa",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_iowa-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "us-honolulu",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us-honolulu-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_denver",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_denver-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "baltimore",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us-baltimore-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "usa_alabama",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/us_alabama-pf-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "ca_vancouver",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/ca_vancouver-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "ca_toronto",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/ca_toronto-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "ca_ontario",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/ca_ontario-so-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "ca_ontario",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/ca_ontario-aes-128-cbc-udp-dns.ovpn"
-    },
-{
-      "vpnName": "ca-aes-128",
-      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/BPR/refs/heads/main/ca-aes-128-cbc-udp-dns.ovpn"
+      "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-udp53.ovpn"
     }
     ]
   }
