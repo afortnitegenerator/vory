@@ -39,7 +39,7 @@
 
   "VPNSetting": {
       
-    "ConnectionType": "off",
+    "ConnectionType": "random",
     
     "VpnUserName"   : "vpnbook",
     "VpnPassword"   : "cf32e5w",
