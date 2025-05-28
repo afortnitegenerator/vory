@@ -10,7 +10,7 @@
    
     "BannerNetwork"      : "admob",
     "InterstitialNetwork": "admob",
-    "NativeNetwork"      : "admob",
+    "NativeNetwork"      : "promote",
     "RewardNetwork"      : "admob",
     
     "AdInterval"         : 2,
@@ -41,7 +41,7 @@
       "preview"       : "https://i.imgur.com/dq0N374.jpeg",
       "title"         : "Limited Time Offer",
       "button_title"  : "Get FreeFire Diamonds",
-      "button_url"    : "https://www.google.com"
+      "button_url"    : "https://testukis.blogspot.com/"
   }
   
   },
