@@ -13,7 +13,7 @@
     "NativeNetwork"      : "admob",
     "RewardNetwork"      : "admob",
     
-    "AdInterval"         : 1,
+    "AdInterval"         : 3,
     
     "AdPlacement": {
         
@@ -47,7 +47,7 @@
   },
 
   "VPNSetting": {
-    "ConnectionType": "random",
+    "ConnectionType": "off",
 
     "VpnUserName": "vpnbook",
     "VpnPassword": "cf32e5w",
