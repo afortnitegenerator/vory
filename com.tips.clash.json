@@ -37,10 +37,10 @@
     "PopAdSetting":{
       "showBtnClose"  :  true,
       "showFullScreen":  false,
-      "icon"          : "https://i.imgur.com/Ho7sfSw.jpeg",
-      "preview"       : "https://i.imgur.com/dq0N374.jpeg",
+      "icon"          : "https://support.supercell.com/images/_1616xAUTO_crop_center-center_90_none/capital_gold_mini.jpg",
+      "preview"       : "https://i.ytimg.com/vi/TFNc6oo3PUE/maxresdefault.jpg",
       "title"         : "Limited Time Offer",
-      "button_title"  : "Get FreeFire Diamonds",
+      "button_title"  : "Get Unlimited Coins",
       "button_url"    : "https://www.google.com"
   }
   
