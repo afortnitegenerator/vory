@@ -13,7 +13,7 @@
     "NativeNetwork"      : "",
     "RewardNetwork"      : "",
     
-    "AdInterval"         : 5,
+    "AdInterval"         : 1,
     
     "AdPlacement": {
         
@@ -28,10 +28,10 @@
       "ApplovinNative"       : "98f6a586ed642919",
       "ApplovinReward"       : "98f6a586ed642919",
       
-      "UnityGameID"           : "4076527",
-      "UnityBanner"           : "BannerAd",
-      "UnityInterstitialAd"   : "InterstitialAd",
-      "UnityRewardAd"         : "rewardedVideo"
+       "UnityGameID"           : "5380840",
+      "UnityBanner"           : "Banner_Android_Bidding",
+      "UnityInterstitialAd"   : "Interstitial_Android_Bidding",
+      "UnityRewardAd"         : "Rewarded_Android_Bidding"
     },
     
     "PopAdSetting":{
