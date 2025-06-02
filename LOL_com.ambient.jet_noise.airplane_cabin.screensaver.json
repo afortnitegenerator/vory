@@ -28,10 +28,10 @@
       "ApplovinNative"       : "98f6a586ed642919",
       "ApplovinReward"       : "98f6a586ed642919",
       
-      "UnityGameID"           : "4076527",
-      "UnityBanner"           : "BannerAd",
-      "UnityInterstitialAd"   : "InterstitialAd",
-      "UnityRewardAd"         : "rewardedVideo"
+      "UnityGameID"           : "5742520",
+      "UnityBanner"           : "Interstitial_Android",
+      "UnityInterstitialAd"   : "Banner_Android",
+      "UnityRewardAd"         : "Rewarded_Android"
     },
     
     "PopAdSetting":{
