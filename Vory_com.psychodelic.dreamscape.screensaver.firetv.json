@@ -10,7 +10,7 @@
    
     "BannerNetwork"      : "admob",
     "InterstitialNetwork": "admob",
-    "NativeNetwork"      : "admob",
+    "NativeNetwork"      : "promote",
     "RewardNetwork"      : "admob",
     
     "AdInterval"         : 2,
