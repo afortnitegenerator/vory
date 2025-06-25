@@ -15,7 +15,7 @@
     "NativeNetwork"      : "unity",
     "RewardNetwork"      : "unity",
     
-    "AdInterval"         : 1,
+    "AdInterval"         : 2,
     
     "AdPlacement": {
         
