@@ -7,7 +7,9 @@
    "AdsController": {
    
     "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'unity', 'promote' ",
-   
+
+     "onesignal_app_id": "dce4e6d5-fe03-4d93-aede-9e51f77fe095"
+     
     "BannerNetwork"      : "",
     "InterstitialNetwork": "",
     "NativeNetwork"      : "",
