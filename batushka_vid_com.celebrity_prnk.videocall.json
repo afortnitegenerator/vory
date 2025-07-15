@@ -1,0 +1,76 @@
+{
+  "AppRedirect": {
+    "status": false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.piupiuapps.coloringglitterunicorns"
+  },
+
+   "AdsController": {
+   
+    "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'unity', 'promote' ",
+   
+    "BannerNetwork"      : "admob",
+    "InterstitialNetwork": "admob",
+    "NativeNetwork"      : "admob",
+    "RewardNetwork"      : "admob",
+    
+    "AdInterval"         : 5,
+    
+    "AdPlacement": {
+        
+      "AdMobBanner"          : "ca-app-pub-3940256099942544/6300978111",
+      "AdMobInterstitial"    : "ca-app-pub-3940256099942544/1033173712",
+      "AdMobNative"          : "ca-app-pub-3940256099942544/2247696110",
+      "AdMobReward"          : "ca-app-pub-3940256099942544/5224354917",
+     
+      "ApplovinKey"          : "Ey33AenqTE14O6tdtv_gGzpDkuPThCbsc0SJf9H1Zw6fGrg34CBMapNm2IOqagfvnINqLIZuRZtQ98nKnPaFJ4",
+      "ApplovinBanner"       : "da17eff31ae69f15",
+      "ApplovinInterstitial" : "98f6a586ed642919",
+      "ApplovinNative"       : "98f6a586ed642919",
+      "ApplovinReward"       : "98f6a586ed642919",
+      
+      "UnityGameID"           : "5742520",
+      "UnityBanner"           : "Interstitial_Android",
+      "UnityInterstitialAd"   : "Banner_Android",
+      "UnityRewardAd"         : "Rewarded_Android"
+    },
+    
+    "PopAdSetting":{
+      "showBtnClose"  :  true,
+      "showFullScreen":  false,
+      "icon"          : "https://i.imgur.com/Ho7sfSw.jpeg",
+      "preview"       : "https://i.imgur.com/dq0N374.jpeg",
+      "title"         : "Limited Time Offer",
+      "button_title"  : "Get FreeFire Diamonds",
+      "button_url"    : "https://www.google.com"
+  }
+  
+  },
+"onesignal_app_id": "",
+  "VPNSetting": {
+    "ConnectionType": "off",
+
+    "VpnUserName": "vpnbook",
+    "VpnPassword": "cf32e5w",
+
+    "BlockedCountry": "ca,uk,usa",
+
+    "VpnFiles": [
+      {
+        "vpnName": "nz-aes",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-tcp443.ovpn"
+      },
+      {
+        "vpnName": "au_australia",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-tcp80.ovpn"
+      },
+      {
+        "vpnName": "aus-aes",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-udp25000.ovpn"
+      },
+      {
+        "vpnName": "aus_perth",
+        "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/VORY_BMP/refs/heads/main/vpnbook-ca149-udp53.ovpn"
+      }
+    ]
+  }
+}
