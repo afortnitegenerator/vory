@@ -10,7 +10,7 @@
    
     "BannerNetwork"      : "admob",
     "InterstitialNetwork": "applovin",
-    "NativeNetwork"      : "admob",
+    "NativeNetwork"      : "applovin",
     "RewardNetwork"      : "applovin",
     
     "AdInterval"         : 2,
@@ -24,9 +24,9 @@
      
       "ApplovinKey"          : "Ey33AenqTE14O6tdtv_gGzpDkuPThCbsc0SJf9H1Zw6fGrg34CBMapNm2IOqagfvnINqLIZuRZtQ98nKnPaFJ4",
       "ApplovinBanner"       : "da17eff31ae69f15",
-      "ApplovinInterstitial" : "99a527165cdc2442",
-      "ApplovinNative"       : "98f6a586ed642919",
-      "ApplovinReward"       : "48257d6f2700799d",
+      "ApplovinInterstitial" : "f59e0ad3813aae49",
+      "ApplovinNative"       : "0628d5a2151e7deb",
+      "ApplovinReward"       : "1b060967b19890c5",
       
       "UnityGameID"           : "5742520",
       "UnityBanner"           : "Interstitial_Android",
