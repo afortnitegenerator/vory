@@ -14,11 +14,11 @@
       ],
       
    
-    "BannerNetwork"      : "admob",
-    "InterstitialNetwork": "admob",
-    "NativeNetwork"      : "admob",
-    "RewardNetwork"      : "admob",
-    "OpenAdNetwork"      : "admob",
+    "BannerNetwork"      : "",
+    "InterstitialNetwork": "",
+    "NativeNetwork"      : "",
+    "RewardNetwork"      : "",
+    "OpenAdNetwork"      : "",
     
     "AdInterval"         : 2,
     
