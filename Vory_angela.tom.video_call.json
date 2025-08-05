@@ -14,21 +14,21 @@
       ],
       
    
-    "BannerNetwork"      : "",
-    "InterstitialNetwork": "",
-    "NativeNetwork"      : "",
-    "RewardNetwork"      : "",
-    "OpenAdNetwork"      : "",
+    "BannerNetwork"      : "admob",
+    "InterstitialNetwork": "admob",
+    "NativeNetwork"      : "admob",
+    "RewardNetwork"      : "admob",
+    "OpenAdNetwork"      : "admob",
     
     "AdInterval"         : 2,
     
     "AdPlacement": {
         
-      "AdMobBanner"          : "ca-app-pub-3940256099942544/6300978111",
-      "AdMobInterstitial"    : "ca-app-pub-3940256099942544/1033173712",
-      "AdMobNative"          : "ca-app-pub-3940256099942544/2247696110",
-      "AdMobReward"          : "ca-app-pub-3940256099942544/5224354917",
-      "AdMobOpenAd"          : "ca-app-pub-3940256099942544/9257395921",
+      "AdMobBanner"          : "ca-app-pub-9691576545415217/1479801262",
+      "AdMobInterstitial"    : "ca-app-pub-9691576545415217/7963935679",
+      "AdMobNative"          : "ca-app-pub-9691576545415217/1245643761",
+      "AdMobReward"          : "ca-app-pub-9691576545415217/6161480364",
+      "AdMobOpenAd"          : "ca-app-pub-9691576545415217/6456993834",
      
       "ApplovinKey"          : "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
       "ApplovinBanner"       : "da17eff31ae69f15",
