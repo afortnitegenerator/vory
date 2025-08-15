@@ -47,310 +47,307 @@
   },
 
    "VPNSetting": {
-    "ConnectionType": "off",
-
-    "VpnUserName": "oh32rx7g7ci1d6y63jqup5ig",
-    "VpnPassword": "m6tirlujjxbh3v6d9agjjlll",
-
-    "BlockedCountry": "ca,uk,usa",
-
-    "VpnFiles": [
-      {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_new_york_udp.ovpn"
+        "ConnectionType": "random",
+        "VpnUserName": "p1080392",
+        "VpnPassword": "J3PKFYEaX8",
+        "VpnFiles": [
+            {
+    "vpnName": "US Wisconsin",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_wisconsin-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_san_francisco_udp.ovpn"
+    "vpnName": "US Wyoming",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_wyoming-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_washington_dc_udp.ovpn"
+    "vpnName": "US Wilmington",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us-wilmington-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_dallas_udp.ovpn"
+    "vpnName": "US West Virginia",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_west_virginia-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_miami_udp.ovpn"
+    "vpnName": "US Streaming 2",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us-streaming-2-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_los_angeles_-_3_udp.ovpn"
+    "vpnName": "US 3",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us3-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_new_jersey_-_1_udp.ovpn"
+    "vpnName": "US South West",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_south_west-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_los_angeles_-_2_udp.ovpn"
+    "vpnName": "US Vermont",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_vermont-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_new_jersey_-_3_udp.ovpn"
+    "vpnName": "US Virginia",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_virginia-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_seattle_udp.ovpn"
+    "vpnName": "US Washington DC",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_washington_dc-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_miami_-_2_udp.ovpn"
+    "vpnName": "US Tennessee",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_tennessee-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_denver_udp.ovpn"
+    "vpnName": "US South Dakota",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_south_dakota-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_salt_lake_city_udp.ovpn"
+    "vpnName": "US South Carolina",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_south_carolina-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_tampa_-_1_udp.ovpn"
+    "vpnName": "US Silicon Valley",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_silicon_valley-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_phoenix_udp.ovpn"
+    "vpnName": "US Pennsylvania",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_pennsylvania-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_new_jersey_-_2_udp.ovpn"
+    "vpnName": "US Rhode Island",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_rhode_island-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_houston_udp.ovpn"
+    "vpnName": "US Salt Lake City",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us-saltlakecity-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_los_angeles_-_1_udp.ovpn"
+    "vpnName": "US Seattle",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_seattle-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_albuquerque_udp.ovpn"
+    "vpnName": "US Oregon",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_oregon-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_lincoln_park_udp.ovpn"
+    "vpnName": "US Oklahoma",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_oklahoma-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_santa_monica_udp.ovpn"
+    "vpnName": "US Ohio",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_ohio-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Netherlands",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_netherlands_-_amsterdam_udp.ovpn"
+    "vpnName": "US North Dakota",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_north_dakota-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Sweden",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_sweden_udp.ovpn"
+    "vpnName": "US New Hampshire",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_new_hampshire-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Switzerland",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_switzerland_udp.ovpn"
+    "vpnName": "US New Mexico",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_new_mexico-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "France",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_france_-_paris_-_1_udp.ovpn"
+    "vpnName": "US New York City",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_new_york_city-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "UK",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_uk_-_east_london_udp.ovpn"
+    "vpnName": "US North Carolina",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_north_carolina-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Netherlands",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_netherlands_-_rotterdam_udp.ovpn"
+    "vpnName": "US Nebraska",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_nebraska-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "UK",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_uk_-_london_udp.ovpn"
+    "vpnName": "US Montana",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_montana-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "France",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_france_-_strasbourg_udp.ovpn"
+    "vpnName": "US Missouri",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_missouri-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "UK",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_uk_-_tottenham_udp.ovpn"
+    "vpnName": "US Mississippi",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_mississippi-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Switzerland",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_switzerland_-_2_udp.ovpn"
+    "vpnName": "US Maine",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_maine-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Italy",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_italy_-_naples_udp.ovpn"
+    "vpnName": "US Massachusetts",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_massachusetts-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Spain",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_spain_-_madrid_udp.ovpn"
+    "vpnName": "US Michigan",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_michigan-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Ireland",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_ireland_udp.ovpn"
+    "vpnName": "US Minnesota",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_minnesota-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Spain",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_spain_-_barcelona_udp.ovpn"
+    "vpnName": "US Louisiana",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_louisiana-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Germany",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_germany_-_nuremberg_udp.ovpn"
+    "vpnName": "US Las Vegas",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_las_vegas-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Iceland",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_iceland_udp.ovpn"
+    "vpnName": "US Kentucky",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_kentucky-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "France",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_france_-_marseille_udp.ovpn"
+    "vpnName": "US Kansas",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_kansas-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Denmark",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_denmark_udp.ovpn"
+    "vpnName": "US Iowa",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_iowa-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Germany",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_germany_-_frankfurt_-_3_udp.ovpn"
+    "vpnName": "US Indiana",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_indiana-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Portugal",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_portugal_udp.ovpn"
+    "vpnName": "US Idaho",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_idaho-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Austria",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_austria_udp.ovpn"
+    "vpnName": "US Houston",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_houston-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "France",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_france_-_alsace_udp.ovpn"
+    "vpnName": "US Honolulu",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us-honolulu-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Singapore",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_singapore_-_jurong_udp.ovpn"
+    "vpnName": "US Florida",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_florida-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Australia",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_australia_-_melbourne_udp.ovpn"
+    "vpnName": "US Streaming",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us-streaming-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Australia",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_australia_-_sydney_udp.ovpn"
+    "vpnName": "US New Jersey",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us-newjersey-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Australia",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_australia_-_brisbane_udp.ovpn"
+    "vpnName": "US California",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_california-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Australia",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_australia_-_sydney_-_2_udp.ovpn"
+    "vpnName": "US Chicago",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_chicago-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Canada",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_canada_-_toronto_udp.ovpn"
+    "vpnName": "US Connecticut",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_connecticut-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Canada",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_canada_-_toronto_-_2_udp.ovpn"
+    "vpnName": "US Denver",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_denver-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "USA",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_usa_-_atlanta_udp.ovpn"
+    "vpnName": "US Baltimore",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us-baltimore-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Cayman Islands",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_cayman_islands_udp.ovpn"
+    "vpnName": "US Atlanta",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_atlanta-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Canada",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_canada_-_montreal_udp.ovpn"
+    "vpnName": "US Arkansas",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_arkansas-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Brazil",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_brazil_udp.ovpn"
+    "vpnName": "US Alaska",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_alaska-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Brazil",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_brazil_-_2_udp.ovpn"
+    "vpnName": "US Alabama",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/us_alabama-pf-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Mexico",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_mexico_udp.ovpn"
+    "vpnName": "CA Vancouver",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/ca_vancouver-aes-128-cbc-udp-dns.ovpn"
+  },
+  {
+    "vpnName": "CA Toronto",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/ca_toronto-aes-128-cbc-udp-dns.ovpn"
+  },
+  {
+    "vpnName": "CA Ontario SO",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/ca_ontario-so-aes-128-cbc-udp-dns.ovpn"
+  },
+  {
+    "vpnName": "CA Ontario",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/ca_ontario-aes-128-cbc-udp-dns.ovpn"
+  },
+  {
+    "vpnName": "CA",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/ca-aes-128-cbc-udp-dns.ovpn"
+  },
+  {
+    "vpnName": "NZ",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/nz-aes-128-cbc-udp-dns.ovpn"
+  },
+  {
+    "vpnName": "AU Australia SO",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/au_australia-so-aes-128-cbc-udp-dns.ovpn"
+  },
+  {
+    "vpnName": "AUS",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/aus-aes-128-cbc-udp-dns.ovpn"
+  },
+  {
+    "vpnName": "AUS Perth",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/aus_perth-aes-128-cbc-udp-dns.ovpn"
+  },
+  {
+    "vpnName": "AUS Melbourne",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/aus_melbourne-aes-128-cbc-udp-dns.ovpn"
+  },
+  {
+    "vpnName": "AU Brisbane",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/au_brisbane-pf-aes-128-cbc-udp-dns.ovpn"
+  },
+  {
+    "vpnName": "AU Adelaide",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/au_adelaide-pf-aes-128-cbc-udp-dns.ovpn"
+  },
+  {
+    "vpnName": "AE",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/ae-aes-128-cbc-udp-dns.ovpn"
+  },
+  {
+    "vpnName": "KR South Korea",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/kr_south_korea-pf-aes-128-cbc-udp-dns.ovpn"
+  },
+  {
+    "vpnName": "Qatar",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/qatar-aes-128-cbc-udp-dns.ovpn"
+  },
+  {
+    "vpnName": "Saudi Arabia",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/saudiarabia-aes-128-cbc-udp-dns.ovpn"
   },
   {
     "vpnName": "Japan",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_japan_-_tokyo_udp.ovpn"
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/japan-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Japan",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_japan_-_shibuya_udp.ovpn"
+    "vpnName": "Japan 2",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/japan_2-aes-128-cbc-udp-dns.ovpn"
   },
   {
-    "vpnName": "Japan",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_japan_-_yokohama_udp.ovpn"
-  },
-  {
-    "vpnName": "Singapore",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_singapore_-_cbd_udp.ovpn"
-  },
-  {
-    "vpnName": "Australia",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_australia_-_perth_udp.ovpn"
-  },
-  {
-    "vpnName": "Australia",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_australia_-_adelaide_udp.ovpn"
-  },
-  {
-    "vpnName": "Singapore",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_singapore_-_marina_bay_udp.ovpn"
-  },
-  {
-    "vpnName": "Italy",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_italy_-_milan_udp.ovpn"
-  },
-  {
-    "vpnName": "UK",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_uk_-_docklands_udp.ovpn"
-  },
-  {
-    "vpnName": "UK",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_uk_-_midlands_udp.ovpn"
-  },
-  {
-    "vpnName": "Netherlands",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_netherlands_-_the_hague_udp.ovpn"
-  },
-  {
-    "vpnName": "Isle of Man",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_isle_of_man_udp.ovpn"
-  },
-  {
-    "vpnName": "Spain",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_spain_-_barcelona_-_2_udp.ovpn"
-  },
-  {
-    "vpnName": "France",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_france_-_paris_-_2_udp.ovpn"
-  },
-  {
-    "vpnName": "Poland",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_poland_udp.ovpn"
-  },
-  {
-    "vpnName": "Luxembourg",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_luxembourg_udp.ovpn"
-  },
-  {
-    "vpnName": "Hungary",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_hungary_udp.ovpn"
-  },
-  {
-    "vpnName": "UK",
-    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Khvp/refs/heads/main/my_expressvpn_uk_-_wembley_udp.ovpn"
+    "vpnName": "Israel",
+    "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Harndbong/refs/heads/main/israel-aes-128-cbc-udp-dns.ovpn"
   }
-    ]
-  }
+        ]
+    }
 }
+
