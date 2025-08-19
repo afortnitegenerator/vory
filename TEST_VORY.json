@@ -16,7 +16,7 @@
     "RewardNetwork"      : "admob",
     "OpenAdNetwork"      : "admob",
      
-    "AdInterval"         : 10,
+    "AdInterval"         : 1,
     
     "AdPlacement": {
       
