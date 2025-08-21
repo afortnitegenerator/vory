@@ -2,7 +2,7 @@
   "AdsController": {
     "README": [
       "To run ads for each network, enter one of the following: 'admob', 'applovin', 'unity', 'promote'",
-      "⚠️Warning: OpenAd work only on admob at time.",
+      "⚠️Warning: OpenAd work only on admob at time."
     ],
     
     "OpenAdNetwork": "admob",
