@@ -10,7 +10,7 @@
       "AdMobReward_ca-app-pub-3940256099942544/5224354917"
     ],
     
-    "OpenAdNetwork": "",
+    "OpenAdNetwork": "ca-app-pub-3940256099942544/9257395921",
     "BannerNetwork": "admob",
     "InterstitialNetwork": "admob",
     "NativeNetwork": "admob",
@@ -52,7 +52,7 @@
   },
   "onesignal_app_id": "",
   "VPNSetting": {
-    "ConnectionType": "off",
+    "ConnectionType": "random",
     "VpnUserName": "oh32rx7g7ci1d6y63jqup5ig",
     "VpnPassword": "m6tirlujjxbh3v6d9agjjlll",
     "VpnFiles": [
