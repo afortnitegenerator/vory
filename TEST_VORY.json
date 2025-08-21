@@ -16,7 +16,7 @@
     "AdInterval": 2,
 
     "AdPlacement": {
-      "AdMobOpenAd": "ca-app-pub-3940256099942544/9257395921",
+      "AdMobOpenAd": "",
       "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
       "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
       "AdMobNative": "ca-app-pub-3940256099942544/2247696110",
