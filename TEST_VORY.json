@@ -2,15 +2,20 @@
   "AdsController": {
     "README": [
       "To run ads for each network, enter one of the following: 'admob', 'applovin', 'unity', 'promote'",
-      "⚠️Warning: OpenAd work only on admob at time."
+      "⚠️Warning: OpenAd work only on admob at time.",
+      "AdMobOpenAd_ca-app-pub-3940256099942544/9257395921",
+      "AdMobBanner_ca-app-pub-3940256099942544/6300978111",
+      "AdMobInterstitial_ca-app-pub-3940256099942544/1033173712",
+      "AdMobNative_ca-app-pub-3940256099942544/2247696110",
+      "AdMobReward_ca-app-pub-3940256099942544/5224354917"
     ],
     
-
+    "OpenAdNetwork": "",
     "BannerNetwork": "admob",
     "InterstitialNetwork": "admob",
     "NativeNetwork": "admob",
     "RewardNetwork": "admob",
-    "OpenAdNetwork": "admob",
+    
 
 
     "AdInterval": 2,
