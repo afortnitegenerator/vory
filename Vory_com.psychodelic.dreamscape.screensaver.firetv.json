@@ -17,10 +17,11 @@
     
     "AdPlacement": {
         
-      "AdMobBanner"          : "ca-app-pub-9691576545415217/5648326157",
-      "AdMobInterstitial"    : "ca-app-pub-9691576545415217/5791812292",
-      "AdMobNative"          : "ca-app-pub-9691576545415217/7995303807",
-      "AdMobReward"          : "ca-app-pub-9691576545415217/5351732089",
+      "AdMobOpenAd"          : "ca-app-pub-9691576545415217/8572289159",
+      "AdMobBanner"          : "ca-app-pub-9691576545415217/4026609292",
+      "AdMobInterstitial"    : "ca-app-pub-9691576545415217/5343807815",
+      "AdMobNative"          : "ca-app-pub-9691576545415217/9885370820",
+      "AdMobReward"          : "ca-app-pub-9691576545415217/1512412003",
      
       "ApplovinKey"          : "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
       "ApplovinBanner"       : "da17eff31ae69f15",
