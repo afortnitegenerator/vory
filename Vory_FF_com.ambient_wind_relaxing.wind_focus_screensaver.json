@@ -46,12 +46,13 @@
   
   },
 
-   "VPNSetting": {
-        "ConnectionType": "random",
+"onesignal_app_id": "",
+  "VPNSetting": {
+    "ConnectionType": "off",
         "VpnUserName": "p1080392",
         "VpnPassword": "J3PKFYEaX8",
-        "VpnFiles": [
-{
+    "VpnFiles": [
+       {
             "vpnName": "US West",
             "vpnFile": "https://eggstone.asia/PIA/us_west.ovpn"
           },
@@ -259,7 +260,6 @@
             "vpnName": "AU Melbourne",
             "vpnFile": "https://eggstone.asia/PIA/au_melbourne.ovpn"
           }
-        ]
-    }
+    ]
+  }
 }
-
