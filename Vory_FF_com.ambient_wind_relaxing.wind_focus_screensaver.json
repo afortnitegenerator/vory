@@ -48,218 +48,85 @@
 
 "onesignal_app_id": "",
   "VPNSetting": {
-    "ConnectionType": "off",
+    "ConnectionType": "random",
         "VpnUserName": "p1080392",
         "VpnPassword": "J3PKFYEaX8",
     "VpnFiles": [
-       {
-            "vpnName": "US West",
-            "vpnFile": "https://eggstone.asia/PIA/us_west.ovpn"
-          },
-          {
-            "vpnName": "US Washington DC",
-            "vpnFile": "https://eggstone.asia/PIA/us_washington_dc.ovpn"
-          },
-          {
-            "vpnName": "US Texas",
-            "vpnFile": "https://eggstone.asia/PIA/us_texas.ovpn"
-          },
-          {
-            "vpnName": "US Silicon Valley",
-            "vpnFile": "https://eggstone.asia/PIA/us_silicon_valley.ovpn"
-          },
-          {
-            "vpnName": "US Seattle",
-            "vpnFile": "https://eggstone.asia/PIA/us_seattle.ovpn"
-          },
-          {
-            "vpnName": "US New York",
-            "vpnFile": "https://eggstone.asia/PIA/us_new_york.ovpn"
-          },
-          {
-            "vpnName": "US Las Vegas",
-            "vpnFile": "https://eggstone.asia/PIA/us_las_vegas.ovpn"
-          },
-          {
-            "vpnName": "US Houston",
-            "vpnFile": "https://eggstone.asia/PIA/us_houston.ovpn"
-          },
-          {
-            "vpnName": "US Florida",
-            "vpnFile": "https://eggstone.asia/PIA/us_florida.ovpn"
-          },
-          {
-            "vpnName": "US East",
-            "vpnFile": "https://eggstone.asia/PIA/us_east.ovpn"
-          },
-          {
-            "vpnName": "US Denver",
-            "vpnFile": "https://eggstone.asia/PIA/us_denver.ovpn"
-          },
-          {
-            "vpnName": "US Chicago",
-            "vpnFile": "https://eggstone.asia/PIA/us_chicago.ovpn"
-          },
-          {
-            "vpnName": "US California",
-            "vpnFile": "https://eggstone.asia/PIA/us_california.ovpn"
-          },
-          {
-            "vpnName": "US Atlanta",
-            "vpnFile": "https://eggstone.asia/PIA/us_atlanta.ovpn"
-          },
-          {
-            "vpnName": "United Arab Emirates",
-            "vpnFile": "https://eggstone.asia/PIA/united_arab_emirates.ovpn"
-          },
-          {
-            "vpnName": "UK Southampton",
-            "vpnFile": "https://eggstone.asia/PIA/uk_southampton.ovpn"
-          },
-          {
-            "vpnName": "UK Manchester",
-            "vpnFile": "https://eggstone.asia/PIA/uk_manchester.ovpn"
-          },
-          {
-            "vpnName": "UK London",
-            "vpnFile": "https://eggstone.asia/PIA/uk_london.ovpn"
-          },
-          {
-            "vpnName": "Switzerland",
-            "vpnFile": "https://eggstone.asia/PIA/switzerland.ovpn"
-          },
-          {
-            "vpnName": "Sweden",
-            "vpnFile": "https://eggstone.asia/PIA/sweden.ovpn"
-          },
-          {
-            "vpnName": "Spain",
-            "vpnFile": "https://eggstone.asia/PIA/spain.ovpn"
-          },
-          {
-            "vpnName": "South Africa",
-            "vpnFile": "https://eggstone.asia/PIA/south_africa.ovpn"
-          },
-          {
-            "vpnName": "Singapore",
-            "vpnFile": "https://eggstone.asia/PIA/singapore.ovpn"
-          },
-          {
-            "vpnName": "Saudi Arabia",
-            "vpnFile": "https://eggstone.asia/PIA/saudi_arabia.ovpn"
-          },
-          {
-            "vpnName": "Qatar",
-            "vpnFile": "https://eggstone.asia/PIA/qatar.ovpn"
-          },
-          {
-            "vpnName": "Portugal",
-            "vpnFile": "https://eggstone.asia/PIA/portugal.ovpn"
-          },
-          {
-            "vpnName": "Norway",
-            "vpnFile": "https://eggstone.asia/PIA/norway.ovpn"
-          },
-          {
-            "vpnName": "New Zealand",
-            "vpnFile": "https://eggstone.asia/PIA/new_zealand.ovpn"
-          },
-          {
-            "vpnName": "Netherlands",
-            "vpnFile": "https://eggstone.asia/PIA/netherlands.ovpn"
-          },
-          {
-            "vpnName": "Mexico",
-            "vpnFile": "https://eggstone.asia/PIA/mexico.ovpn"
-          },
-          {
-            "vpnName": "Luxembourg",
-            "vpnFile": "https://eggstone.asia/PIA/luxembourg.ovpn"
-          },
-          {
-            "vpnName": "Liechtenstein",
-            "vpnFile": "https://eggstone.asia/PIA/liechtenstein.ovpn"
-          },
-          {
-            "vpnName": "Japan",
-            "vpnFile": "https://eggstone.asia/PIA/japan.ovpn"
-          },
-          {
-            "vpnName": "Italy",
-            "vpnFile": "https://eggstone.asia/PIA/italy.ovpn"
-          },
-          {
-            "vpnName": "Israel",
-            "vpnFile": "https://eggstone.asia/PIA/israel.ovpn"
-          },
-          {
-            "vpnName": "Ireland",
-            "vpnFile": "https://eggstone.asia/PIA/ireland.ovpn"
-          },
-          {
-            "vpnName": "Iceland",
-            "vpnFile": "https://eggstone.asia/PIA/iceland.ovpn"
-          },
-          {
-            "vpnName": "Greenland",
-            "vpnFile": "https://eggstone.asia/PIA/greenland.ovpn"
-          },
-          {
-            "vpnName": "France",
-            "vpnFile": "https://eggstone.asia/PIA/france.ovpn"
-          },
-          {
-            "vpnName": "Finland",
-            "vpnFile": "https://eggstone.asia/PIA/finland.ovpn"
-          },
-          {
-            "vpnName": "Denmark",
-            "vpnFile": "https://eggstone.asia/PIA/denmark.ovpn"
-          },
-          {
-            "vpnName": "DE Frankfurt",
-            "vpnFile": "https://eggstone.asia/PIA/de_frankfurt.ovpn"
-          },
-          {
-            "vpnName": "DE Berlin",
-            "vpnFile": "https://eggstone.asia/PIA/de_berlin.ovpn"
-          },
-          {
-            "vpnName": "CA Vancouver",
-            "vpnFile": "https://eggstone.asia/PIA/ca_vancouver.ovpn"
-          },
-          {
-            "vpnName": "CA Toronto",
-            "vpnFile": "https://eggstone.asia/PIA/ca_toronto.ovpn"
-          },
-          {
-            "vpnName": "CA Ontario",
-            "vpnFile": "https://eggstone.asia/PIA/ca_ontario.ovpn"
-          },
-          {
-            "vpnName": "CA Montreal",
-            "vpnFile": "https://eggstone.asia/PIA/ca_montreal.ovpn"
-          },
-          {
-            "vpnName": "Belgium",
-            "vpnFile": "https://eggstone.asia/PIA/belgium.ovpn"
-          },
-          {
-            "vpnName": "Austria",
-            "vpnFile": "https://eggstone.asia/PIA/austria.ovpn"
-          },
-          {
-            "vpnName": "AU Sydney",
-            "vpnFile": "https://eggstone.asia/PIA/au_sydney.ovpn"
-          },
-          {
-            "vpnName": "AU Perth",
-            "vpnFile": "https://eggstone.asia/PIA/au_perth.ovpn"
-          },
-          {
-            "vpnName": "AU Melbourne",
-            "vpnFile": "https://eggstone.asia/PIA/au_melbourne.ovpn"
-          }
+ { "vpnName": "AE", "vpnFile": "https://eggstone.asia/PIA2/ae-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "AU Adelaide PF", "vpnFile": "https://eggstone.asia/PIA2/au_adelaide-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "AU Australia SO", "vpnFile": "https://eggstone.asia/PIA2/au_australia-so-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "AU Brisbane PF", "vpnFile": "https://eggstone.asia/PIA2/au_brisbane-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "Australia", "vpnFile": "https://eggstone.asia/PIA2/aus-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "Australia Melbourne", "vpnFile": "https://eggstone.asia/PIA2/aus_melbourne-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "Australia Perth", "vpnFile": "https://eggstone.asia/PIA2/aus_perth-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "Canada", "vpnFile": "https://eggstone.asia/PIA2/ca-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "Canada Ontario", "vpnFile": "https://eggstone.asia/PIA2/ca_ontario-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "Canada Ontario SO", "vpnFile": "https://eggstone.asia/PIA2/ca_ontario-so-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "Canada Toronto", "vpnFile": "https://eggstone.asia/PIA2/ca_toronto-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "Canada Vancouver", "vpnFile": "https://eggstone.asia/PIA2/ca_vancouver-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "Japan", "vpnFile": "https://eggstone.asia/PIA2/japan-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "Japan 2", "vpnFile": "https://eggstone.asia/PIA2/japan_2-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "South Korea PF", "vpnFile": "https://eggstone.asia/PIA2/kr_south_korea-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "Mexico", "vpnFile": "https://eggstone.asia/PIA2/mexico-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "New Zealand", "vpnFile": "https://eggstone.asia/PIA2/nz-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "Qatar", "vpnFile": "https://eggstone.asia/PIA2/qatar-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "Saudi Arabia", "vpnFile": "https://eggstone.asia/PIA2/saudiarabia-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "Singapore", "vpnFile": "https://eggstone.asia/PIA2/sg-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Baltimore", "vpnFile": "https://eggstone.asia/PIA2/us-baltimore-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Honolulu", "vpnFile": "https://eggstone.asia/PIA2/us-honolulu-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US New Jersey", "vpnFile": "https://eggstone.asia/PIA2/us-newjersey-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Salt Lake City", "vpnFile": "https://eggstone.asia/PIA2/us-saltlakecity-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Streaming 2", "vpnFile": "https://eggstone.asia/PIA2/us-streaming-2-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Streaming", "vpnFile": "https://eggstone.asia/PIA2/us-streaming-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Wilmington", "vpnFile": "https://eggstone.asia/PIA2/us-wilmington-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US 3", "vpnFile": "https://eggstone.asia/PIA2/us3-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Alabama PF", "vpnFile": "https://eggstone.asia/PIA2/us_alabama-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Alaska PF", "vpnFile": "https://eggstone.asia/PIA2/us_alaska-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Arkansas PF", "vpnFile": "https://eggstone.asia/PIA2/us_arkansas-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Atlanta", "vpnFile": "https://eggstone.asia/PIA2/us_atlanta-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US California", "vpnFile": "https://eggstone.asia/PIA2/us_california-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Chicago", "vpnFile": "https://eggstone.asia/PIA2/us_chicago-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Connecticut PF", "vpnFile": "https://eggstone.asia/PIA2/us_connecticut-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Denver", "vpnFile": "https://eggstone.asia/PIA2/us_denver-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Florida", "vpnFile": "https://eggstone.asia/PIA2/us_florida-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Houston", "vpnFile": "https://eggstone.asia/PIA2/us_houston-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Idaho PF", "vpnFile": "https://eggstone.asia/PIA2/us_idaho-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Indiana PF", "vpnFile": "https://eggstone.asia/PIA2/us_indiana-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Iowa PF", "vpnFile": "https://eggstone.asia/PIA2/us_iowa-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Kansas PF", "vpnFile": "https://eggstone.asia/PIA2/us_kansas-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Kentucky PF", "vpnFile": "https://eggstone.asia/PIA2/us_kentucky-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Las Vegas", "vpnFile": "https://eggstone.asia/PIA2/us_las_vegas-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Louisiana PF", "vpnFile": "https://eggstone.asia/PIA2/us_louisiana-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Maine PF", "vpnFile": "https://eggstone.asia/PIA2/us_maine-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Massachusetts PF", "vpnFile": "https://eggstone.asia/PIA2/us_massachusetts-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Michigan PF", "vpnFile": "https://eggstone.asia/PIA2/us_michigan-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Minnesota PF", "vpnFile": "https://eggstone.asia/PIA2/us_minnesota-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Mississippi PF", "vpnFile": "https://eggstone.asia/PIA2/us_mississippi-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Missouri PF", "vpnFile": "https://eggstone.asia/PIA2/us_missouri-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Montana PF", "vpnFile": "https://eggstone.asia/PIA2/us_montana-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Nebraska PF", "vpnFile": "https://eggstone.asia/PIA2/us_nebraska-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US New Hampshire PF", "vpnFile": "https://eggstone.asia/PIA2/us_new_hampshire-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US New Mexico PF", "vpnFile": "https://eggstone.asia/PIA2/us_new_mexico-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US New York City", "vpnFile": "https://eggstone.asia/PIA2/us_new_york_city-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US North Carolina PF", "vpnFile": "https://eggstone.asia/PIA2/us_north_carolina-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US North Dakota PF", "vpnFile": "https://eggstone.asia/PIA2/us_north_dakota-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Ohio PF", "vpnFile": "https://eggstone.asia/PIA2/us_ohio-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Oklahoma PF", "vpnFile": "https://eggstone.asia/PIA2/us_oklahoma-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Oregon PF", "vpnFile": "https://eggstone.asia/PIA2/us_oregon-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Pennsylvania PF", "vpnFile": "https://eggstone.asia/PIA2/us_pennsylvania-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Rhode Island PF", "vpnFile": "https://eggstone.asia/PIA2/us_rhode_island-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Seattle", "vpnFile": "https://eggstone.asia/PIA2/us_seattle-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Silicon Valley", "vpnFile": "https://eggstone.asia/PIA2/us_silicon_valley-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US South Carolina PF", "vpnFile": "https://eggstone.asia/PIA2/us_south_carolina-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US South Dakota PF", "vpnFile": "https://eggstone.asia/PIA2/us_south_dakota-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US South West", "vpnFile": "https://eggstone.asia/PIA2/us_south_west-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Tennessee PF", "vpnFile": "https://eggstone.asia/PIA2/us_tennessee-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Vermont PF", "vpnFile": "https://eggstone.asia/PIA2/us_vermont-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Virginia PF", "vpnFile": "https://eggstone.asia/PIA2/us_virginia-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Washington DC", "vpnFile": "https://eggstone.asia/PIA2/us_washington_dc-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US West Virginia PF", "vpnFile": "https://eggstone.asia/PIA2/us_west_virginia-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Wisconsin PF", "vpnFile": "https://eggstone.asia/PIA2/us_wisconsin-pf-aes-128-cbc-udp-dns.ovpn" },
+  { "vpnName": "US Wyoming PF", "vpnFile": "https://eggstone.asia/PIA2/us_wyoming-pf-aes-128-cbc-udp-dns.ovpn" }
     ]
   }
 }
