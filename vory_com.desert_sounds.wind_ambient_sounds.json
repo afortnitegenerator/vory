@@ -12,7 +12,7 @@
    
     "BannerNetwork"      : "admob",
     "InterstitialNetwork": "admob",
-    "NativeNetwork"      : "admob",
+    "NativeNetwork"      : "",
     "RewardNetwork"      : "admob",
     
     "AdInterval"         : 1,
@@ -21,7 +21,7 @@
         
       "AdMobBanner"          : "ca-app-pub-9691576545415217/2321678444",
       "AdMobInterstitial"    : "ca-app-pub-9691576545415217/1008596775",
-      "AdMobNative"          : "ca-app-pub-9691576545415217/6242959191",
+      "AdMobNative"          : "",
       "AdMobReward"          : "ca-app-pub-3940256099942544/5224354917",
      
       "ApplovinKey"          : "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
